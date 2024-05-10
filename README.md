@@ -7,7 +7,7 @@ Repo for BAS479 GitHub files
 
 ## The PowerPoint from which the video was made is also provided
 
-## The Word Doc has the links to key external videos
+## The links to key external videos are here:  
   * YouTube Video (The first one to watch)
   *   [link to video](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
   * LinkedIn Learning video
